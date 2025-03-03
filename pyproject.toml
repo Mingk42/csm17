@@ -1,6 +1,6 @@
 [project]
 name = "CSM17_HW"
-version = "0.1.0"
+version = "0.1.1"
 description = "CSM17 과제전형"
 authors = [
     {name = "mingk42", email = "xoals123456t@gmail.com"},
@@ -14,8 +14,11 @@ license = {text = "MIT"}
 extr-xml="cms17hw.main:extract"
 parse-xml="cms17hw.main:parse"
 
+[project.urls]
+"Homepage" = "https://github.com/Mingk42/csm17"
+
 [tool.setuptools]
 package-dir= {"" = "src"}
 
 [tool.pdm]
-distribution = false
+distribution = true
