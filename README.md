@@ -8,6 +8,7 @@ $ pip install CSM17_HW
 
 $ extr-xml      # hwpx파일에서 xml파일을 추출합니다.
 $ parse-xml     # xml파일에서 수식을 추출합니다.
+$ hwp2latex     # hwpx형식으로 작성된 수식을 LaTex형식으로 변환합니다.
 ```
 
 ### Versions
