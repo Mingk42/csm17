@@ -13,6 +13,7 @@ $ hwp2latex     # hwpx형식으로 작성된 수식을 LaTex형식으로 변환�
 
 ### Versions
 - `v0.1` : extr-xml, parse-xml
+- `v0.2` : hwp2latex
 
 ### Dependency
 ![beautifulsoup](https://img.shields.io/badge/beautifulsoup-3776AB.svg?style=for-the-badge&logo=python&logoColor=FFF)
